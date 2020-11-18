@@ -12,5 +12,5 @@
     'use strict';
 
     // Your code here...
-   alert("Hi");
+   alert("Hello world");
 })();
